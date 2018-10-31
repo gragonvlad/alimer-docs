@@ -71,7 +71,10 @@
     "keepFileLink": false,
     "cleanupCacheHistory": false,
     "globalMetadata": {
-      "_appFooter": " "
+      "_appTitle": "Alimer Documentation",
+      "_appFooter": "Copyright © 2018 Amer Koleci",
+      "_enableSearch": true,
+		  "_enableNewTab": true
     }
   }
 }
