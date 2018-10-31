@@ -1,0 +1,6 @@
+- name: Alimer
+  href: articles/
+  homepage: articles/intro.md
+- name: API Documentation
+  href: api/
+  homepage: api/index.md
